@@ -1,110 +1,110 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-  Hi There! 👋 I'm Youssaf Mohamed
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Youssaf+Mohamed!;" />
 </h1>
 
-<h3 align="center">
-Software Engineer | AI & Web Development Enthusiast
-</h3>
+<h3 align="center">Software Engineer | AI Enthusiast | Alexandria, Egypt</h3>
 
----
+<p align="center">
+  Building intelligent systems with a focus on computer vision and autonomous applications
+</p>
+
+<br/>
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer from Alexandria, Egypt**, with a strong interest in **Artificial Intelligence** and modern **web development**.  
-I enjoy building practical, efficient solutions and continuously exploring new technologies, especially in AI-driven systems and intelligent applications.
+I'm a software engineer specializing in **Artificial Intelligence** and its applications in **Computer Vision** and **Neural Networks**. Currently pursuing my degree in Information Technology at Borg El Arab University, I focus on developing practical AI solutions that solve real-world problems.
 
-My work focuses on combining solid engineering fundamentals with real-world problem solving, whether through AI models or clean, responsive web interfaces.
+My graduation project is an **AI-powered smart city** that integrates:
+- Intelligent parking management systems
+- Wireless charging infrastructure
+- Automated smart home controls
+- Autonomous vehicle navigation
 
----
+<br/>
 
-## 📊 GitHub Overview
+## 🛠️ Technical Skills
+
+**AI & Machine Learning**
+- Deep Learning with TensorFlow/Keras
+- Computer Vision (OpenCV, YOLO, SSD)
+- Machine Learning (scikit-learn)
+- Data Analysis (Pandas, Matplotlib, Seaborn)
+- Speech Recognition
+
+**Programming Languages**
+- Python (Primary)
+- C++ (Data Structures & Algorithms)
+- JavaScript/TypeScript
+- PHP
+- Java, C, R
+
+**Web Development**
+- Frontend: HTML, CSS, JavaScript, Vue.js
+- Backend: Laravel, PHP
+- Styling: Sass, Tailwind CSS, Bootstrap
+- Containerization: Docker
+- Tools: Git, GitHub, VS Code
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&langs_count=5&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="170" alt="languages graph" />
 </div>
 
----
+<br/>
 
-## ⚒️ Languages, Frameworks & Tools
+## 🎯 Current Focus
+
+- Developing autonomous systems for smart city applications
+- Advancing computer vision techniques for real-time object detection
+- Exploring deep learning architectures for improved model performance
+- Building end-to-end ML pipelines from data collection to deployment
+
+<br/>
+
+## 🔧 Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,bootstrap,r" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </div>
 
----
-
-## 🎓 Education
-
-**Information Technology Department**  
-*Borg El Arab University – Alexandria*
-
-I’m currently pursuing my studies while actively developing my technical skills.  
-My graduation project focuses on building a fully **AI-powered Smart City**, integrating:
-
-- Intelligent Parking Management  
-- Wireless Charging Stations  
-- Smart Home Systems  
-- AI-based Self-Driving Car  
-
----
-
-## 🧠 AI Skills & Expertise
-
-- C++, Data Structures, and Algorithms  
-- Machine Learning & Deep Learning fundamentals  
-- Computer Vision using OpenCV  
-- Object Detection with YOLO and SSD  
-- Data analysis using Pandas, Matplotlib, and Seaborn  
-- Speech Recognition systems  
-- ML model development with scikit-learn  
-
----
-
-## 🌐 Web Development (Side Interest)
-
-Alongside AI, I enjoy web development as a creative and practical skill.  
-I build clean, responsive interfaces using:
-
-- HTML, CSS, JavaScript  
-- Sass, Tailwind CSS, Vue.js  
-- PHP and RESTful APIs  
-
----
-
-## 💡 Interests
-
-- AI research and intelligent systems  
-- Data-driven decision making  
-- AI-based automation solutions  
-- Continuous learning and skill growth  
-
----
-
-## 🚀 Goals
-
-My goal is to contribute to impactful AI-driven technologies that improve how people interact with their environment.  
-I aim to work on real-world systems that combine innovation, efficiency, and practical value.
-
----
+<br/>
 
 ## 📫 Connect With Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" /></a>
+  <a href="https://github.com/yourprofile"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github" /></a>
 </div>
+
+<br/>
+
+<p align="center">
+  <i>Open to collaborations on AI projects and innovative tech solutions</i>
+</p>
