@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Youssaf%20Mohamed&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Autonomous%20Systems&descAlignY=55&descSize=18&descColor=8b949e" />
 
-<a href="https://www.linkedin.com/in/youssaf-mohamed">
+<a href="https://www.linkedin.com/in/youssaf-mohamed-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:Youssaf Mohamed2002@gmail.com">
